@@ -1,43 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-	<!-- META -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="robots" content="" />    
-    <meta name="description" content="" />
-    
-    <!-- FAVICONS ICON -->
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
-    
-    <!-- PAGE TITLE HERE -->
-    <title>Modern Template | News grid</title>
-    
-    <!-- MOBILE SPECIFIC -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <link rel="stylesheet" type="text/css" href="css/loader.min.css"> <!-- LOADER STYLE SHEET -->       
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"><!-- BOOTSTRAP STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/fontawesome/css/font-awesome.min.css" /><!-- FONTAWESOME STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css"><!-- OWL CAROUSEL STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.min.css"><!-- MAGNIFIC POPUP STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css"><!-- MAIN STYLE SHEET -->
-    <!-- GOOGLE FONTS -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,800,800i,900" rel="stylesheet"> 
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Crete+Round:400,400i&amp;subset=latin-ext" rel="stylesheet">
-
-</head>
-
-<body id="bg">
-
-	<div class="page-wraper"> 
-       	
+<?php include_once('./assests/header.php')  ?>
+	<div class="page-wraper"> 	
         <!-- HEADER START -->
         <header class="site-header header-style-1  nav-wide mobile-sider-drawer-menu">
             
@@ -544,69 +506,6 @@
 
         </div>
         <!-- CONTENT END -->
-                   
-        <!-- FOOTER START -->
-        <footer class="site-footer bg-gray footer-light footer-wide">
-
-            <div class="footer-bottom overlay-wraper">
-                <div class="overlay-main bg-black" style="opacity:0;"></div>
-                <div class="container p-t30">
-                    <div class="footer-bottom-content d-flex align-items-center justify-content-between">
-                    
-                        <div class="wt-footer-bot-left">
-                            <a href="#"><img src="images/logo-dark.png" width="140" height="58" alt=""></a>
-                        </div>
-                        
-                        <div class="text-center copyright-block p-t15">
-                            <span class="copyrights-text">© 2023 Your Company. Designed By thememajestic.</span>
-                        </div>  
-                                             
-                        <div class="wt-footer-bot-right p-t15">
-                            <ul class="copyrights-nav pull-right"> 
-                                <li><a href="about-1.html">Terms  & Condition</a></li>
-                                <li><a href="about-1.html">Privacy Policy</a></li>
-                                <li><a href="contact-1.html">Contact Us</a></li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- FOOTER END -->
-
-        <!-- BUTTON TOP START -->
-		<button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
-        
-    </div>
- 
-<!-- LOADING AREA START ===== -->
-<div class="loading-area">
-    <div class="loading-box"></div>
-    <div class="loading-pic">
-        <svg id="triangle" width="140px" height="140px" viewBox="-3 -4 39 39">
-          <polygon fill="#fff" stroke="#000" stroke-width="2" points="16,0 32,32 0,32"></polygon>
-        </svg>
-    </div>
-</div>
-<!-- LOADING AREA  END ====== -->
-
-<!-- JAVASCRIPT  FILES ========================================= --> 
-<script  src="js/jquery-3.7.1.min.js"></script><!-- JQUERY.MIN JS -->
-<script  src="js/popper.min.js"></script>
-<script  src="js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
-<script  src="js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
-<script  src="js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
-<script  src="js/counterup.min.js"></script><!-- COUNTERUP JS -->
-<script  src="js/waypoints-sticky.min.js"></script><!-- COUNTERUP JS -->
-<script  src="js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
-<script  src="js/imagesloaded.pkgd.min.js"></script><!-- MASONRY  -->
-<script  src="js/owl.carousel.min.js"></script><!-- OWL  SLIDER  -->
-<script  src="js/jquery.owl-filter.js"></script>
-<script  src="js/scrolla.min.js"></script><!-- ON SCROLL CONTENT ANIMTE   --> 
-<script  src="js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
-<script  src="js/shortcode.js"></script><!-- SHORTCODE FUCTIONS  -->
-
-</body>
-
-</html>
+         
+        <!-- Footer -->
+         <?php include_once('./assests/footer.php')  ?>
