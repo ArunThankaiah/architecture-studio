@@ -132,7 +132,7 @@
                                 
                             </div>
                            <div class="col-md-12 text-center">
-                           <a href="#"
+                           <a href="services.php"
                                 class="v-button v-btn letter-spacing-4 font-12 text-uppercase p-l20 ">view
                                 All</a>
                            </div>

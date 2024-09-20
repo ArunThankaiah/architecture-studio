@@ -26,6 +26,7 @@
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css"><!-- OWL CAROUSEL STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/magnific-popup.min.css"><!-- MAGNIFIC POPUP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/style.css"><!-- MAIN STYLE SHEET -->
+    <link rel="stylesheet" href="css/team.css">
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,800,800i,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
@@ -72,12 +73,12 @@
                                     <a href="services.php">Services</a>
 
                                 </li>
-                                <!-- <li>
-                                    <a href="work-grid.html">Projects</a>
+                                <li>
+                                    <a href="team.php">Team</a>
 
-                                </li> -->
+                                </li>
                                 <li class="submenu-direction">
-                                    <a href="javascript:;">Contact</a>
+                                    <a href="contact.php">Contact</a>
 
                                 </li>
                             </ul>

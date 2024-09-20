@@ -60,10 +60,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hilite-title p-lr20 m-tb20 text-right text-uppercase bdr-gray bdr-right">
+                    <!-- <div class="hilite-title p-lr20 m-tb20 text-right text-uppercase bdr-gray bdr-right">
                         <strong>18 Year</strong>
                         <span class="text-black">Experience Working</span>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -106,14 +106,14 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Lorem
                                     ipsum dolor sit amet.</a></h2>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe, et!
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Triangle
                                     Concrete House on lake</a></h2>
                             <p>Morbi mattis ex non urna condimentum,
@@ -135,7 +135,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Triangle
                                     Concrete House on lake</a></h2>
                             <p>Morbi mattis ex non urna condimentum,
@@ -158,7 +158,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Triangle
                                     Concrete House on lake</a></h2>
                             <p>Morbi mattis ex non urna condimentum,
@@ -180,7 +180,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Triangle
                                     Concrete House on lake</a></h2>
                             <p>Morbi mattis ex non urna condimentum,
@@ -202,7 +202,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Lorem
                                     ipsum dolor sit amet consectetur.</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto,
@@ -223,7 +223,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Lorem
                                     ipsum dolor sit amet consectetur.</a></h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita,
@@ -244,7 +244,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
                 <div class="overlay-bx-2 ">
                     <div class="line-amiation">
                         <div class="text-white  font-weight-300 p-a40">
-                            <h2><a href="#"
+                            <!-- <h2><a href="#"
                                     class="text-white font-20 letter-spacing-4 text-uppercase">Lorem
                                     ipsum dolor sit amet consectetur.</a></h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic,
@@ -265,7 +265,7 @@
                             </p>
                             <a href="#"
                                 class="v-button letter-spacing-4 font-12 text-uppercase p-l20">Read
-                                More</a>
+                                More</a> -->
                         </div>
                     </div>
                 </div>
@@ -283,7 +283,7 @@
 <!-- LATEST PRJECTS SLIDER END --> 
 
         <!-- OUR EXPERTS SECTION START -->
-        <div class="section-full bg-gray square_shape3">
+        <!-- <div class="section-full bg-gray square_shape3">
             <div class="container-fluid">
                 <div class="section-content">
                     <div class="row">
@@ -449,22 +449,22 @@
             </div>
 
 
-        </div>
+        </div> -->
         <!-- OUR EXPERTS SECTION END -->
 
         <!-- BLOG SECTION START -->
-        <div class="section-full p-t80 clearfix bg-repeat"
+        <!-- <div class="section-full p-t80 clearfix bg-repeat"
             style="background-image:url(images/background/ptn-1.png);">
             <div class="container">
                 <div class="section-content">
-                    <!-- TITLE START -->
+                 
                     <div class="section-head text-left">
                         <h2 class="text-uppercase font-36">Latest Blog</h2>
                         <div class="wt-separator-outer">
                             <div class="wt-separator bg-black"></div>
                         </div>
                     </div>
-                    <!-- TITLE END -->
+                   
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="overlay-wraper bg-no-repeat bg-cover latest-blog-dark-outer p-a20 m-b30"
@@ -510,11 +510,11 @@
                     <span class="text-black">Post</span>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- BLOG SECTION END -->
 
         <!-- COMPANY DETAIL SECTION START -->
-        <div class="section-full p-t80 p-b50 overlay-wraper bg-top-center bg-parallax"
+        <!-- <div class="section-full p-t80 p-b50 overlay-wraper bg-top-center bg-parallax"
             data-stellar-background-ratio="0.5" style="background-image:url(images/background/bg-11.jpg);">
             <div class="overlay-main opacity-08 bg-black"></div>
             <div class="container ">
@@ -578,162 +578,11 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- COMPANY DETAIL SECTION End -->
 
         <!-- TESTIMONIALS SECTION START -->
-        <div class="section-full p-t80 clearfixbg-repeat "
-            style="background-image:url(images/background/ptn-1.png);">
-            <div class="container">
-                <div class="section-content">
-                    <!-- TITLE START -->
-                    <div class="section-head text-left">
-                        <h2 class="text-uppercase font-36">Testimonials</h2>
-                        <div class="wt-separator-outer">
-                            <div class="wt-separator bg-black"></div>
-                        </div>
-                    </div>
-                    <!-- TITLE END -->
-                    <!-- TESTIMONIAL 4 START ON BACKGROUND -->
-                    <div class="section-content">
-                        <div class="owl-carousel testimonial-home">
-                            <div class="item">
-                                <div class="testimonial-6">
-                                    <div class="testimonial-pic-block">
-                                        <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" width="132" height="132" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-text clearfix bg-white">
-                                        <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Taylor Roberts</strong>
-                                            <span class="testimonial-position p-t0">Co-manager associated</span>
-                                        </div>
-                                        <div class="testimonial-paragraph text-black p-t15">
-                                            <span class="fa fa-quote-left"></span>
-                                            <p>typefaces and layouts, and in appearance of different general the
-                                                content of dummy text is nonsensical.typefaces of dummy text is
-                                                nonsensical.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-6">
-                                    <div class="testimonial-pic-block">
-                                        <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic4.jpg" width="132" height="132" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-text clearfix bg-white">
-                                        <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Robert willson</strong>
-                                            <span class="testimonial-position p-t0">Co-manager associated</span>
-                                        </div>
-                                        <div class="testimonial-paragraph text-black p-t15">
-                                            <span class="fa fa-quote-left"></span>
-                                            <p>typefaces and layouts, and in appearance of different general the
-                                                content of dummy text is nonsensical.typefaces of dummy text is
-                                                nonsensical.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-6">
-                                    <div class="testimonial-pic-block">
-                                        <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" width="132" height="132" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-text clearfix bg-white">
-                                        <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Taylor Roberts</strong>
-                                            <span class="testimonial-position p-t0">Co-manager associated</span>
-                                        </div>
-                                        <div class="testimonial-paragraph text-black p-t15">
-                                            <span class="fa fa-quote-left"></span>
-                                            <p>typefaces and layouts, and in appearance of different general the
-                                                content of dummy text is nonsensical.typefaces of dummy text is
-                                                nonsensical.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-6">
-                                    <div class="testimonial-pic-block">
-                                        <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic3.jpg" width="132" height="132" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-text clearfix bg-white">
-                                        <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Robert willson</strong>
-                                            <span class="testimonial-position p-t0">Co-manager associated</span>
-                                        </div>
-                                        <div class="testimonial-paragraph text-black p-t15">
-                                            <span class="fa fa-quote-left"></span>
-                                            <p>typefaces and layouts, and in appearance of different general the
-                                                content of dummy text is nonsensical.typefaces of dummy text is
-                                                nonsensical.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-6">
-                                    <div class="testimonial-pic-block">
-                                        <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" width="132" height="132" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-text clearfix bg-white">
-                                        <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Taylor Roberts</strong>
-                                            <span class="testimonial-position p-t0">Co-manager associated</span>
-                                        </div>
-                                        <div class="testimonial-paragraph text-black p-t15">
-                                            <span class="fa fa-quote-left"></span>
-                                            <p>typefaces and layouts, and in appearance of different general the
-                                                content of dummy text is nonsensical.typefaces of dummy text is
-                                                nonsensical.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-6">
-                                    <div class="testimonial-pic-block">
-                                        <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic4.jpg" width="132" height="132" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-text clearfix bg-white">
-                                        <div class="testimonial-detail clearfix">
-                                            <strong class="testimonial-name">Taylor Roberts</strong>
-                                            <span class="testimonial-position p-t0">Co-manager associated</span>
-                                        </div>
-                                        <div class="testimonial-paragraph text-black p-t15">
-                                            <span class="fa fa-quote-left"></span>
-                                            <p>typefaces and layouts, and in appearance of different general the
-                                                content of dummy text is nonsensical.typefaces of dummy text is
-                                                nonsensical.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="hilite-title p-lr20 m-tb20 text-right text-uppercase bdr-gray bdr-right">
-                    <strong>Client</strong>
-                    <span class="text-black">Says</span>
-                </div>
-            </div>
-        </div>
+        <?php include_once('./assests/testimonial.php')  ?>
         <!-- TESTIMONIALS SECTION END -->
 
         <!-- CLIENT LOGO SECTION START -->
@@ -742,17 +591,17 @@
                 <div class="section-content">
 
                     <!-- TESTIMONIAL 4 START ON BACKGROUND -->
-                    <div class="section-content">
+                    <!-- <div class="section-content">
                         <div class="row">
                             <div class="col-lg-4 col-md-12">
-                                <!-- TITLE START -->
+                              
                                 <div class="section-head  text-left">
                                     <h2 class="text-uppercase font-36 text-white">Our Clients</h2>
                                     <div class="wt-separator-outer">
                                         <div class="wt-separator bg-white"></div>
                                     </div>
                                 </div>
-                                <!-- TITLE END -->
+                              
                             </div>
 
                             <div class="col-lg-8 col-md-12">
@@ -811,7 +660,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

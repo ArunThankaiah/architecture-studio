@@ -54,7 +54,7 @@
                 <div class="logo-header">
                     <div class="logo-header-inner logo-header-one">
                         <a href="index.html">
-                            <img src="images/logo-dark.png" width="171" height="49" alt="" />
+                            <img src="images/logo-dark.png" width="250" height="60" alt="" />
                         </a>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                                             </ul> -->
                                         </li>
                                         <li>
-                                            <a href="work-grid.html">Projects</a>
+                                            <a href="team.php">Team</a>
                                             <!-- <ul class="sub-menu v-sub-menu">
                                                 <li><a href="post-image.html">Image</a></li>
                                                 <li><a href="post-gallery.html">Gallery</a></li>
